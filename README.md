@@ -11,5 +11,8 @@
 > 진행중: ❗️<br>
 > --> 각 항목들은 가나다 순서대로 나열
 
+## ㄹ
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank">로또의 최고 순위와 최저 순위</a> ✅
+
 ## ㅅ
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank">신고 결과 받기</a> ✅
