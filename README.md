@@ -16,3 +16,4 @@
 
 ## ㅅ
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank">신고 결과 받기</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72410" target="_blank">신규 아이디 추천</a> ✅
