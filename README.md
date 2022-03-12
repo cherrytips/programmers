@@ -14,5 +14,9 @@
 ## ㄹ
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank">로또의 최고 순위와 최저 순위</a> ✅
 
+## ㅁ
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60057" target="_blank">문자열 압축</a> ❗️
+
 ## ㅅ
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank">신고 결과 받기</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72410" target="_blank">신규 아이디 추천</a> ✅
