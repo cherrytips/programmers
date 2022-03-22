@@ -26,3 +26,7 @@
 ## ㅇ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/86051" target="_blank" rel="noopener">없는 숫자 더하기</a> ✅
+
+## ㅍ
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank" rel="noopener">프린터</a> ✅
