@@ -10,6 +10,10 @@
 > 진행중: ❗️<br>
 > --> 각 항목들은 가나다 순서대로 나열
 
+## ㄱ
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅
+
 ## ㄹ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank" rel="noopener">로또의 최고 순위와 최저 순위</a> ✅
@@ -26,6 +30,11 @@
 ## ㅇ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/86051" target="_blank" rel="noopener">없는 숫자 더하기</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42888" target="_blank" rel="noopener">오픈채팅방</a> ✅
+
+## ㅈ
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12973" target="_blank" rel="noopener">짝지어 제거하기</a> ❗️
 
 ## ㅍ
 
