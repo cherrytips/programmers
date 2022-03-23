@@ -9,34 +9,35 @@
 > 완료: ✅<br>
 > 진행중: ❗️<br>
 > --> 각 항목들은 가나다 순서대로 나열
+> --> 레벨은 기호 옆에 표기
 
 ## ㄱ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅ - Level 2
 
 ## ㄹ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank" rel="noopener">로또의 최고 순위와 최저 순위</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank" rel="noopener">로또의 최고 순위와 최저 순위</a> ✅ - Level 1
 
 ## ㅁ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60057" target="_blank" rel="noopener">문자열 압축</a> ❗️
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60057" target="_blank" rel="noopener">문자열 압축</a> ❗️ - Level 2
 
 ## ㅅ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank" rel="noopener">신고 결과 받기</a> ✅
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72410" target="_blank" rel="noopener">신규 아이디 추천</a> ✅
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42889" target="_blank" rel="noopener">실패율</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank" rel="noopener">신고 결과 받기</a> ✅ - Level 1
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72410" target="_blank" rel="noopener">신규 아이디 추천</a> ✅ - Level 1
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42889" target="_blank" rel="noopener">실패율</a> ✅ - Level 1
 
 ## ㅇ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/86051" target="_blank" rel="noopener">없는 숫자 더하기</a> ✅
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42888" target="_blank" rel="noopener">오픈채팅방</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/86051" target="_blank" rel="noopener">없는 숫자 더하기</a> ✅ - Level 1
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42888" target="_blank" rel="noopener">오픈채팅방</a> ✅ - Level 2
 
 ## ㅈ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12973" target="_blank" rel="noopener">짝지어 제거하기</a> ❗️
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12973" target="_blank" rel="noopener">짝지어 제거하기</a> ❗️ - Level 2
 
 ## ㅍ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank" rel="noopener">프린터</a> ✅
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank" rel="noopener">프린터</a> ✅ - Level 2
