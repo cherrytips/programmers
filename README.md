@@ -35,6 +35,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/86051" target="_blank" rel="noopener">없는 숫자 더하기</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42888" target="_blank" rel="noopener">오픈채팅방</a> ✅ - Level 2
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank" rel="noopener">위장</a> ✅ - Level 2
 
 ## ㅈ
 
