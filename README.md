@@ -13,12 +13,14 @@
 
 ## ㄱ
 
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42746" target="_blank" rel="noopener">가장 큰 수</a> ❗️ - Level 2 - 런타임 에러???
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60058" target="_blank" rel="noopener">괄호 변환</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅ - Level 2
 
 ## ㄷ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42583" target="_blank" rel="noopener">다리를 지나는 트럭</a> ❗️ - Level 2
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42626" target="_blank" rel="noopener">더 맵게</a> ❗️ - Level 2 - 효율성 실패
 
 ## ㄹ
 
@@ -48,3 +50,7 @@
 ## ㅍ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank" rel="noopener">프린터</a> ✅ - Level 2
+
+## K
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank" rel="noopener">K번째수</a> ✅ - Level 1
