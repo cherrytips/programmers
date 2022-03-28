@@ -16,6 +16,10 @@
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60058" target="_blank" rel="noopener">괄호 변환</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅ - Level 2
 
+## ㄷ
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42583" target="_blank" rel="noopener">다리를 지나는 트럭</a> ❗️ - Level 2
+
 ## ㄹ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank" rel="noopener">로또의 최고 순위와 최저 순위</a> ✅ - Level 1
