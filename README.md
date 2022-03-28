@@ -49,3 +49,7 @@
 ## ㅍ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank" rel="noopener">프린터</a> ✅ - Level 2
+
+## K
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank" rel="noopener">K번째수</a> ✅ - Level 1
