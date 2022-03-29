@@ -19,7 +19,7 @@
 
 ## ㄷ
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42583" target="_blank" rel="noopener">다리를 지나는 트럭</a> ❗️ - Level 2
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42583" target="_blank" rel="noopener">다리를 지나는 트럭</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42626" target="_blank" rel="noopener">더 맵게</a> ❗️ - Level 2 - 효율성 실패
 
 ## ㄹ
