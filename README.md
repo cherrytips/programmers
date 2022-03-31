@@ -17,6 +17,10 @@
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60058" target="_blank" rel="noopener">괄호 변환</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅ - Level 2
 
+## ㄴ
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/17677" target="_blank" rel="noopener">뉴스 클러스터링</a> ❗️ - Level 2 - 교집합 Error
+
 ## ㄷ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42583" target="_blank" rel="noopener">다리를 지나는 트럭</a> ✅ - Level 2
