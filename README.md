@@ -38,6 +38,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/67257" target="_blank" rel="noopener">수식 최대화</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72412" target="_blank" rel="noopener">순위 검색</a> ❗️ - Level 2 - 효율성 실패
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12924" target="_blank" rel="noopener">숫자의 표현</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank" rel="noopener">신고 결과 받기</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72410" target="_blank" rel="noopener">신규 아이디 추천</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42889" target="_blank" rel="noopener">실패율</a> ✅ - Level 1
@@ -53,6 +54,10 @@
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12973" target="_blank" rel="noopener">짝지어 제거하기</a> ❗️ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92341" target="_blank" rel="noopener">주차 요금 계산</a> ✅ - Level 3
 
+## ㅊ
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12939" target="_blank" rel="noopener">최댓값과 최솟값</a> ✅ - Level 2
+
 ## ㅌ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/64065" target="_blank" rel="noopener">튜플</a> ✅ - Level 2
@@ -64,6 +69,10 @@
 ## H
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42747" target="_blank" rel="noopener">H-Index</a> ❗️ - Level 2 - 문제가 대체 뭔말인지...
+
+## H
+
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12951" target="_blank" rel="noopener">JadenCase 문자열 만들기</a> ✅ - Level 2
 
 ## K
 
