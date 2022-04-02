@@ -38,6 +38,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/67257" target="_blank" rel="noopener">수식 최대화</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72412" target="_blank" rel="noopener">순위 검색</a> ❗️ - Level 2 - 효율성 실패
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12924" target="_blank" rel="noopener">숫자의 표현</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92334" target="_blank" rel="noopener">신고 결과 받기</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72410" target="_blank" rel="noopener">신규 아이디 추천</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42889" target="_blank" rel="noopener">실패율</a> ✅ - Level 1
