@@ -79,3 +79,4 @@
 ## K
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank" rel="noopener">K번째수</a> ✅ - Level 1
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92335" target="_blank" rel="noopener">k진수에서 소수 개수 구하기</a> ✅ - Level 2
