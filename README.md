@@ -56,6 +56,7 @@
 ## ㅈ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12973" target="_blank" rel="noopener">짝지어 제거하기</a> ❗️ - Level 2
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42584" target="_blank" rel="noopener">주식가격</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92341" target="_blank" rel="noopener">주차 요금 계산</a> ✅ - Level 3
 
 ## ㅊ
