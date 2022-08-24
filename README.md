@@ -14,6 +14,7 @@
 ## ㄱ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42746" target="_blank" rel="noopener">가장 큰 수</a> ❗️ - Level 2 - 런타임 에러???
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906" target="_blank" rel="noopener">같은 숫자는 싫어</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60058" target="_blank" rel="noopener">괄호 변환</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42586" target="_blank" rel="noopener">기능개발</a> ✅ - Level 2
 
