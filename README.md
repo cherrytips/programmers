@@ -65,6 +65,8 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12939" target="_blank" rel="noopener">최댓값과 최솟값</a> ✅ - Level 2
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank" rel="noopener">최소직사각형</a> ✅ - Level 1
+
 ## ㅌ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/64065" target="_blank" rel="noopener">튜플</a> ✅ - Level 2
