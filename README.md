@@ -20,6 +20,7 @@
 
 ## ㄴ
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389" target="_blank" rel="noopener">나머지가 1이 되는 수 찾기</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/43162" target="_blank" rel="noopener">네트워크</a> ❗️ - Level 3
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/17677" target="_blank" rel="noopener">뉴스 클러스터링</a> ❗️ - Level 2 - 교집합 Error
 
@@ -64,7 +65,6 @@
 ## ㅊ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12939" target="_blank" rel="noopener">최댓값과 최솟값</a> ✅ - Level 2
-
 - ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank" rel="noopener">최소직사각형</a> ✅ - Level 1
 
 ## ㅌ
