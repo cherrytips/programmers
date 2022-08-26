@@ -37,6 +37,10 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60057" target="_blank" rel="noopener">문자열 압축</a> ❗️ - Level 2
 
+## ㅂ
+
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank" rel="noopener">부족한 금액 계산하기</a> ✅ - Level 1
+
 ## ㅅ
 
 - ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666" target="_blank" rel="noopener">성격 유형 검사하기</a> ✅ - Level 1
