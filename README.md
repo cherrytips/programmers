@@ -79,7 +79,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42747" target="_blank" rel="noopener">H-Index</a> ❗️ - Level 2 - 문제가 대체 뭔말인지...
 
-## H
+## J
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12951" target="_blank" rel="noopener">JadenCase 문자열 만들기</a> ✅ - Level 2
 
@@ -87,3 +87,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank" rel="noopener">K번째수</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92335" target="_blank" rel="noopener">k진수에서 소수 개수 구하기</a> ✅ - Level 2
+
+## Else
+
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank" rel="noopener">2016년</a> ✅ - Level 1
