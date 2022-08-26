@@ -20,6 +20,7 @@
 
 ## ㄴ
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389" target="_blank" rel="noopener">나머지가 1이 되는 수 찾기</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/43162" target="_blank" rel="noopener">네트워크</a> ❗️ - Level 3
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/17677" target="_blank" rel="noopener">뉴스 클러스터링</a> ❗️ - Level 2 - 교집합 Error
 
@@ -35,6 +36,10 @@
 ## ㅁ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/60057" target="_blank" rel="noopener">문자열 압축</a> ❗️ - Level 2
+
+## ㅂ
+
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank" rel="noopener">부족한 금액 계산하기</a> ✅ - Level 1
 
 ## ㅅ
 
@@ -64,6 +69,7 @@
 ## ㅊ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12939" target="_blank" rel="noopener">최댓값과 최솟값</a> ✅ - Level 2
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/86491" target="_blank" rel="noopener">최소직사각형</a> ✅ - Level 1
 
 ## ㅌ
 
@@ -77,7 +83,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42747" target="_blank" rel="noopener">H-Index</a> ❗️ - Level 2 - 문제가 대체 뭔말인지...
 
-## H
+## J
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12951" target="_blank" rel="noopener">JadenCase 문자열 만들기</a> ✅ - Level 2
 
@@ -85,3 +91,7 @@
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42748" target="_blank" rel="noopener">K번째수</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/92335" target="_blank" rel="noopener">k진수에서 소수 개수 구하기</a> ✅ - Level 2
+
+## Else
+
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12901" target="_blank" rel="noopener">2016년</a> ✅ - Level 1
