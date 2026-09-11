@@ -43,6 +43,7 @@
 
 ## ㅅ
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/468379" target="_blank" rel="noopener">선인장 숨기기</a> ✅ - Level 3
 - ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/118666" target="_blank" rel="noopener">성격 유형 검사하기</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/67257" target="_blank" rel="noopener">수식 최대화</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/72412" target="_blank" rel="noopener">순위 검색</a> ❗️ - Level 2 - 효율성 실패
