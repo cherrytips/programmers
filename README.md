@@ -78,6 +78,7 @@
 
 ## ㅍ
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845" target="_blank" rel="noopener">폰켓몬</a> ✅ - Level 1
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42587" target="_blank" rel="noopener">프린터</a> ✅ - Level 2
 
 ## H
