@@ -39,6 +39,8 @@
 
 ## ㅂ
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42579" target="_blank" rel="noopener">베스트앨범</a> ✅ - Level 3
+
 - ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/82612" target="_blank" rel="noopener">부족한 금액 계산하기</a> ✅ - Level 1
 
 ## ㅅ
