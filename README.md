@@ -86,7 +86,7 @@
 
 ## H
 
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42747" target="_blank" rel="noopener">H-Index</a> ❗️ - Level 2 - 문제가 대체 뭔말인지...
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42747" target="_blank" rel="noopener">H-Index</a> ✅ - Level 2
 
 ## J
 
