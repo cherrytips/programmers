@@ -21,7 +21,7 @@
 ## ㄴ
 
 - ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87389" target="_blank" rel="noopener">나머지가 1이 되는 수 찾기</a> ✅ - Level 1
-- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/43162" target="_blank" rel="noopener">네트워크</a> ❗️ - Level 3
+- ### <a href="https://programmers.co.kr/learn/courses/30/lessons/43162" target="_blank" rel="noopener">네트워크</a> ✅ - Level 3
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/17677" target="_blank" rel="noopener">뉴스 클러스터링</a> ❗️ - Level 2 - 교집합 Error
 
 ## ㄷ
