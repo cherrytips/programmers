@@ -79,6 +79,8 @@
 
 ## ㅌ
 
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/43165" target="_blank" rel="noopener">타겟 넘버</a> ✅ - Level 2
+
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/64065" target="_blank" rel="noopener">튜플</a> ✅ - Level 2
 
 ## ㅍ
