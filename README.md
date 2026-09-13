@@ -62,6 +62,7 @@
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12981" target="_blank" rel="noopener">영어 끝말잇기</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/12985" target="_blank" rel="noopener">예상 대진표</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42888" target="_blank" rel="noopener">오픈채팅방</a> ✅ - Level 2
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/12909" target="_blank" rel="noopener">올바른 괄호</a> ✅ - Level 2
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/42578" target="_blank" rel="noopener">위장</a> ✅ - Level 2
 
 ## ㅈ
