@@ -32,6 +32,7 @@
 ## ㄹ
 
 - ### <a href="https://programmers.co.kr/learn/courses/30/lessons/77484" target="_blank" rel="noopener">로또의 최고 순위와 최저 순위</a> ✅ - Level 1
+- ### <a href="https://school.programmers.co.kr/learn/courses/30/lessons/468372" target="_blank" rel="noopener">리프 노드 수 최대화</a> ✅ - Level 2
 
 ## ㅁ
 
